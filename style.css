@@ -1,0 +1,39 @@
+.divone{
+    border: 2px solid;
+    margin: 0;
+    background-color:#00a884;
+    position: sticky;
+    height: 200px;
+}
+.innerdiv{
+    border: 2px solid white;
+    height: 500px;
+    width: 1000px;
+    bottom: 100px;
+    margin-left: 150px;
+    background-color: white
+}
+.divtwo{
+    border: 2px solid #d1d7db;
+    width: 800px;
+    height: 100px;
+    background-color: white;
+    margin-left: 100px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pOne{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    background-color: white;
+}
+.unordered{
+    background-color: white;
+    font-size: 20px;
+    color: #d1d7d;
+}
+
+.spanone{
+    margin-left: 650px;
+    margin-top: 500px;
+}
